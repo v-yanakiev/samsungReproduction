@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bUjN+dB02Qg=",
+  "success": true,
+  "projectFilePath": "C:\\coding\\reproduceSamsung\\OpenDebug\\OpenDebugAPI\\OpenDebugAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vasil\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\Vasil\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Vasil\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

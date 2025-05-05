@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Pi4jKazHXy1lmp3cCwY5T01v6YygIDq2J9DOojl7TGw=",
+  "Source": "OpenDebugAPI",
+  "BasePath": "_content/OpenDebugAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

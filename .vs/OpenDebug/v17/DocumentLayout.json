@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\coding\\OpenDebug\\backend\\OpenDebug\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B85EE70-665F-4E76-8CAC-4D8EECF87B9E}|OpenDebugAPI\\OpenDebugAPI.csproj|c:\\coding\\opendebug\\backend\\opendebug\\opendebugapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B85EE70-665F-4E76-8CAC-4D8EECF87B9E}|OpenDebugAPI\\OpenDebugAPI.csproj|solutionrelative:opendebugapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B85EE70-665F-4E76-8CAC-4D8EECF87B9E}|OpenDebugAPI\\OpenDebugAPI.csproj|c:\\coding\\opendebug\\backend\\opendebug\\opendebugapi\\opendebugapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2B85EE70-665F-4E76-8CAC-4D8EECF87B9E}|OpenDebugAPI\\OpenDebugAPI.csproj|solutionrelative:opendebugapi\\opendebugapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B85EE70-665F-4E76-8CAC-4D8EECF87B9E}|OpenDebugAPI\\OpenDebugAPI.csproj|c:\\coding\\opendebug\\backend\\opendebug\\opendebugapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2B85EE70-665F-4E76-8CAC-4D8EECF87B9E}|OpenDebugAPI\\OpenDebugAPI.csproj|solutionrelative:opendebugapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B85EE70-665F-4E76-8CAC-4D8EECF87B9E}|OpenDebugAPI\\OpenDebugAPI.csproj|c:\\coding\\opendebug\\backend\\opendebug\\opendebugapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B85EE70-665F-4E76-8CAC-4D8EECF87B9E}|OpenDebugAPI\\OpenDebugAPI.csproj|solutionrelative:opendebugapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 162,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpenDebugAPI.http",
+              "DocumentMoniker": "C:\\coding\\OpenDebug\\backend\\OpenDebug\\OpenDebugAPI\\OpenDebugAPI.http",
+              "RelativeDocumentMoniker": "OpenDebugAPI\\OpenDebugAPI.http",
+              "ToolTip": "C:\\coding\\OpenDebug\\backend\\OpenDebug\\OpenDebugAPI\\OpenDebugAPI.http",
+              "RelativeToolTip": "OpenDebugAPI\\OpenDebugAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-05T12:29:08.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\coding\\OpenDebug\\backend\\OpenDebug\\OpenDebugAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "OpenDebugAPI\\Dockerfile",
+              "ToolTip": "C:\\coding\\OpenDebug\\backend\\OpenDebug\\OpenDebugAPI\\Dockerfile",
+              "RelativeToolTip": "OpenDebugAPI\\Dockerfile",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-02T16:56:39.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\coding\\OpenDebug\\backend\\OpenDebug\\OpenDebugAPI\\Program.cs",
+              "RelativeDocumentMoniker": "OpenDebugAPI\\Program.cs",
+              "ToolTip": "C:\\coding\\OpenDebug\\backend\\OpenDebug\\OpenDebugAPI\\Program.cs",
+              "RelativeToolTip": "OpenDebugAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:55:08.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\coding\\OpenDebug\\backend\\OpenDebug\\OpenDebugAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OpenDebugAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\coding\\OpenDebug\\backend\\OpenDebug\\OpenDebugAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OpenDebugAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T16:54:54.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

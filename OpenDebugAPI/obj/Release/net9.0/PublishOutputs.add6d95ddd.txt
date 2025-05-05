@@ -1,0 +1,9 @@
+C:\coding\OpenDebug\backend\OpenDebug\OpenDebugAPI\bin\Release\net9.0\publish\OpenDebugAPI.exe
+C:\coding\OpenDebug\backend\OpenDebug\OpenDebugAPI\bin\Release\net9.0\publish\appsettings.Development.json
+C:\coding\OpenDebug\backend\OpenDebug\OpenDebugAPI\bin\Release\net9.0\publish\appsettings.json
+C:\coding\OpenDebug\backend\OpenDebug\OpenDebugAPI\bin\Release\net9.0\publish\OpenDebugAPI.dll
+C:\coding\OpenDebug\backend\OpenDebug\OpenDebugAPI\bin\Release\net9.0\publish\OpenDebugAPI.deps.json
+C:\coding\OpenDebug\backend\OpenDebug\OpenDebugAPI\bin\Release\net9.0\publish\OpenDebugAPI.runtimeconfig.json
+C:\coding\OpenDebug\backend\OpenDebug\OpenDebugAPI\bin\Release\net9.0\publish\OpenDebugAPI.pdb
+C:\coding\OpenDebug\backend\OpenDebug\OpenDebugAPI\bin\Release\net9.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\coding\OpenDebug\backend\OpenDebug\OpenDebugAPI\bin\Release\net9.0\publish\Microsoft.OpenApi.dll
